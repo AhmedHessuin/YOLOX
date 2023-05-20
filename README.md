@@ -34,7 +34,7 @@
 - Model Backbone 
 - Transformer modules
 # Test 
-can be found in [tahaulf](tahaulf.ipynb)
+can be found in [tahaulf.ipynb](tahaulf.ipynb)
 the reported result in the .ipynb is 
 ```
 Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.469
