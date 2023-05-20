@@ -39,4 +39,4 @@ the reported result in the .ipynb is
 ```
 Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.469
 ```
-same as [standard model YOLOX-m] (https://github.com/Megvii-BaseDetection/YOLOX#standard-models)
+same as [standard model YOLOX-m](https://github.com/Megvii-BaseDetection/YOLOX#standard-models)
