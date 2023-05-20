@@ -26,10 +26,9 @@
 - SimOTA Advanced label assignment is another important progress of object detection
 - Strong augmentation ( MixUp and Mosaic)
 ## How do they differ from previous YOLO models?
-- Anchor free 
-- Decoupled Head 
-- SimOTA
-- Strong augmentation (MixUp)
+- Anchor free & Decoupled Head 
+- SimOTA Advanced label assignment
+- Strong augmentation
 ## What do you think are potential areas of improvement?
 - Model Backbone 
 - Transformer modules
